@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Amado, Rafael
 - [ ] Asadorian, Nanor
 - [ ] Bajaj, Rahul
-- [ ] Baxter, Jordan
+- [x] Baxter, Jordan :dog:
 - [ ] Besio, Matteo
 - [ ] Bui, Robert
 - [ ] Casale, Erin
